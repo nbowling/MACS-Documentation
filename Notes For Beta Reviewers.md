@@ -6,7 +6,7 @@ This repo contains the beta version of the guide for Mahzel’s MACS application
 
 Please do not circulate this document to others not involved as there is still much work to do and it would not be helpful to have various versions circulating before Mahzel is ready.
 
-Please feel free to make constructive comments via the Issues page on this site, directly to me @Skittles or @snrkatat via private DM on Discord (either of the two MNW servers.) Or alternatively you can post a message in the Messages folder on the OneDrive share at https://
+Please feel free to make constructive comments via the Issues page on this site, directly to me @Skittles or @snrkatat via private DM on Discord (either of the two MNW servers.) Or alternatively you can post a message in the Messages folder on the OneDrive share at [MACS Share](https://1drv.ms/f/c/14871153530fce75/IgCICaC-PYhjTLxc5hA3UqTNAaQjp44tLWKajeQNnBwBfe0?e=ARLgqr)
 
 The review period for version 0.1.0 provisionally ends on the 30th of September and the review for v0.2.0 will start immediately afterwards.
 
