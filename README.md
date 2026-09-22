@@ -3,11 +3,17 @@ Version 0.1 now available in Drafts folder and OneDrive folder
 
 ## To Do
 - Add two more worked examples
-- Add Fourier Transform subsection to Appendix B
-- Add Cepstrum sub section to Appendix B
 - Maintain and check intra / extra document links
 - Fill out references
 - Beta review
+
+## Date 22/09/2026
+- Version 0.1.1 updated and release for review
+- Normalisation subsection expanded
+- Fourier Transform subsection expanded
+- Installation and configuration section added
+- First pass figure(s) numbers and pages rationalised
+- Database and Recordings section updated
 
 ## Date 13/09/2026
 - Version 0.1 released to document beta review
