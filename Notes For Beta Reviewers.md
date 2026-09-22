@@ -1,5 +1,5 @@
 # Notes for beta testers
-## MACS GUIDE Version 0.1.0 - 13/09/2026
+## MACS GUIDE Version 0.1.1 - 22/09/2026
 
 ### Context
 This repo contains the beta version of the guide for Mahzel’s MACS application. You have volunteered to be a document beta tester. Firstly can I thank you for taking the time to help with this project.
