@@ -8,7 +8,7 @@ Please do not circulate this document to others not involved as there is still m
 
 Please feel free to make constructive comments via the Issues page on this site, directly to me @Skittles or @snrkatat via private DM on Discord (either of the two MNW servers.) Or alternatively you can post a message in the Messages folder on the OneDrive share at [MACS Share](https://1drv.ms/f/c/14871153530fce75/IgCICaC-PYhjTLxc5hA3UqTNAaQjp44tLWKajeQNnBwBfe0?e=ARLgqr)
 
-The review period for version 0.1.0 provisionally ends on the 30th of September and the review for v0.2.0 will start immediately afterwards.
+The review period for version 0.1.0 provisionally ends on the 15th of October and the review for v0.2.0 will start as soon as recommended changes are implemented.
 
 ### Key areas to address
 It is assumed that the user base for MACS will be very broad so from a technical point of view much of the document may seem simplistic. There are more technical sections but the focus has been on showing how MACS can be integrated into MNW from a game players perspective.
@@ -21,6 +21,8 @@ Some key areas to consider:
 - Do links work
 - Is there anything missing
 - Do the graphics help or hinder
+- Is it too simplistic / technical
+- Are there flat out wrong parts
 
 Anything else you think is relevant.
 
@@ -29,7 +31,7 @@ One of our visions is for there to be several interactive examples with this doc
 
 ### Finally
 - I am not a sound analysis expert, I enjoy learning and my philosophy has always been that the best way to learn something is to work out how to teach it.
-- There is a need for a more technical section that explores FT, Cepstrum and the analysis of rotating machinery. It is likely that this will come later on in the docs development.
+- There is a need for a more technical section that explores FT, Cepstrum and the analysis of rotating machinery. That is now in progress for v0.2.0
 - Once again a big thank you for your help and please remember my other life philosophy has been, the only dumb question is the unasked one. Please feel free to comment constructively and ask questions as necessary.
 
 # Volunteer
